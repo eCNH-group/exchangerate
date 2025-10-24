@@ -1,4 +1,4 @@
-# exchangerate
+# exchange rate
 eCNH exchange rate,Exchange Rate Reference Table
 
 Andromeda 1 eCNH ≈ 0.1353(—0.1403) USDC ≈ 1 CNH,
