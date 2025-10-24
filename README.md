@@ -20,3 +20,4 @@ https://www.orca.so/pools/BHf1yCvj6qh2E1y2JLrjesP7RRC8XjBN3FyHeq45LnBZ
 
 eCNH合约地址（Andromeda SOL链）： 7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5u
 
+<img width="688" height="832" alt="eCNH exchange rate,Exchange Rate Reference Table image" src="https://github.com/user-attachments/assets/905a59ce-5105-411e-970d-2fa7fe948419" />
